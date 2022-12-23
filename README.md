@@ -5,8 +5,6 @@
 - 🤔 I'm looking for help with job opportunities
 - 💬 Ask me about Python and Flutter
 - 📫 How to reach me: andre.append@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: You don't need no reason to invite me to a barbecue
 
   ##
 

@@ -1,7 +1,7 @@
 ### Hello, I'm Andre Costa 👋
 
 - 🔭 I'm Software engineer
-- 🌱 I'm currently learning Angular and Flutter
+- 🌱 I'm currently learning Angular and C#
 - 🤔 I'm looking for help with job opportunities
 - 💬 Ask me about Python and Flutter
 - 📫 How to reach me: andre.append@gmail.com
